@@ -1,0 +1,2 @@
+rootProject.name='AnimatedBottomNavigation'
+include ':app'
